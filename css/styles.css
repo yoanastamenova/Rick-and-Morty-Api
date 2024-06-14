@@ -4,7 +4,12 @@ body {
    padding: 0;
    
    margin-top: 5em;
+   background-color: darkslategray;
 
+}
+
+h1 {
+    color:white;
 }
 
 .button {
@@ -13,14 +18,11 @@ body {
     
     margin: 2em;
     background-color: bisque;
-    color: aliceblue;
+    color: darkmagenta;
     font-weight: bold;
-
-    display: inline;
+}
+.buttones {
+    display: inline-block;
     justify-content: center;
     align-items: center;
-}
-
-.buttones {
-    margin-left: 20em;
 }
